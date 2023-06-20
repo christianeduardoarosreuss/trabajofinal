@@ -59,7 +59,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
-            <version>2.5.4</version>
         </dependency>
         <!-- Requerido para trabajar con Thymeleaf Spring Security Tags -->
         <dependency>
